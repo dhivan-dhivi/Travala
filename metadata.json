@@ -1,0 +1,6 @@
+{
+  "name": "Shivam Travels - Premium Travel & Car Rental Trichy",
+  "description": "Premium travel agency, luxury holiday packages, car rentals, outstation cabs and 24/7 airport transfers based in Tiruchirappalli (Trichy), Tamil Nadu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
